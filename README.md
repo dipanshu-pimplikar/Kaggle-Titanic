@@ -1,6 +1,8 @@
 # Titanic - Machine Learning from Disaster
 ## Start here! Predict survival on the Titanic and get familiar with ML basics
 
+Link: https://www.kaggle.com/c/titanic/overview
+
 ### The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
